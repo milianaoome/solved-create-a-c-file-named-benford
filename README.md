@@ -1,0 +1,9 @@
+Download Link: https://assignmentchef.com/product/solved-create-a-c-file-named-benford
+<br>
+<hr>
+
+AssignmentCreate a C++ file named benford.cpp.In benford.cpp, your main function should prompt for the name of a data file and then the function iterates through the all of the elements in the data file and computes the frequency (count and percentage) of the first number in each entry.Note: Some of the data files have comments that you must filter out.Also note: that blank lines or lines where the number begins or is 0 must also be filtered out.Your output must be formatted as follows.DigitCountFrequency130.30220.20320.20400.00500.00600.00720.20800.00910.10Sample Data FilesClarification, from this list your program must be able to handle sample1.txt, sample2.txt, sunspots.txt, livejournal.txt, and librarybooks.txt.
+
+sample1.txt – small sample input file with no degenerate cases.sample2.txt – small sample input file containing blank lines and 0’s.Sunspot data (Links to an external site.) collected by Robin McQuinn. The number of sunspots that occur monthly, as compiled by a Belgian agency taken from http://sidc.oma.be/html/sunspot.html.LiveJournal starts (Links to an external site.) collected by Shirley Man. The number of new LiveJournal accounts created daily Jan 1, 2000–Feb 28, 2005, taken from http://www.livejournal.com/stats/stats.txt, field name “newbyday”.Library holdings (Links to an external site.) collected by Christian Ayotte. The number of books held in a set of several thousand US libraries, from an Access database at: http://nces.ed.gov/pubs2004/data/PUPLD02a_Access.zip.
+
+101481     10148110974        109741013        101328292       035040     282935372      350407155      353727284      715596110     728426175      9611026175
